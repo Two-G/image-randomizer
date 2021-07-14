@@ -8,5 +8,6 @@ A basic image randomizer in C#
 5) Enjoy
 
 # How to change images
+
 1)Go in the folder RandomImage\images
 2)Put your images in the folder numbered from 1 to whichever number you need
